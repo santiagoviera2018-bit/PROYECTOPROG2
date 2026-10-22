@@ -1,0 +1,23 @@
+[
+  {
+    "Rol": 0,
+    "JuegosComprados": [],
+    "Nombre": "Admin",
+    "Email": "admin@tienda.com",
+    "Password": "123"
+  },
+  {
+    "Rol": 1,
+    "JuegosComprados": [
+      {
+        "id": 516,
+        "title": "PUBG: BATTLEGROUNDS",
+        "genre": "Shooter",
+        "platform": "PC (Windows)"
+      }
+    ],
+    "Nombre": "Santiago",
+    "Email": "santiago123@gmail.com",
+    "Password": "1234"
+  }
+]

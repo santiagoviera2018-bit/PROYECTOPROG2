@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\tiendavideojuegos\\servicioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|solutionrelative:tiendavideojuegos\\servicioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\tiendavideojuegos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|solutionrelative:tiendavideojuegos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\tiendavideojuegos\\usuarios.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|solutionrelative:tiendavideojuegos\\usuarios.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\tiendavideojuegos\\rolusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|solutionrelative:tiendavideojuegos\\rolusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\tiendavideojuegos\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|solutionrelative:tiendavideojuegos\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\tiendavideojuegos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|solutionrelative:tiendavideojuegos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|c:\\users\\santi\\onedrive\\desktop\\proyectofinal\\tiendavideojuegos\\tiendavideojuegos\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|solutionrelative:tiendavideojuegos\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\tiendavideojuegos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|solutionrelative:tiendavideojuegos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\tiendavideojuegos\\gestorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF37E2-8699-48FE-8F62-32EA5A779C9D}|TiendaVideojuegos\\TiendaVideojuegos.csproj|solutionrelative:tiendavideojuegos\\gestorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestorUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\GestorUsuarios.cs",
+              "RelativeDocumentMoniker": "TiendaVideojuegos\\GestorUsuarios.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\GestorUsuarios.cs",
+              "RelativeToolTip": "TiendaVideojuegos\\GestorUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:09:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicioApi.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\ServicioApi.cs",
+              "RelativeDocumentMoniker": "TiendaVideojuegos\\ServicioApi.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\ServicioApi.cs",
+              "RelativeToolTip": "TiendaVideojuegos\\ServicioApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:06:35.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\Usuario.cs",
+              "RelativeDocumentMoniker": "TiendaVideojuegos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\Usuario.cs",
+              "RelativeToolTip": "TiendaVideojuegos\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:06:02.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\Juego.cs",
+              "RelativeDocumentMoniker": "TiendaVideojuegos\\Juego.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\Juego.cs",
+              "RelativeToolTip": "TiendaVideojuegos\\Juego.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:04:05.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\Persona.cs",
+              "RelativeDocumentMoniker": "TiendaVideojuegos\\Persona.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\Persona.cs",
+              "RelativeToolTip": "TiendaVideojuegos\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:00:23.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMostrable.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\IMostrable.cs",
+              "RelativeDocumentMoniker": "TiendaVideojuegos\\IMostrable.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\IMostrable.cs",
+              "RelativeToolTip": "TiendaVideojuegos\\IMostrable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T12:59:42.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\RolUsuario.cs",
+              "RelativeDocumentMoniker": "TiendaVideojuegos\\RolUsuario.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\RolUsuario.cs",
+              "RelativeToolTip": "TiendaVideojuegos\\RolUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T12:58:38.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "usuarios.json",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\usuarios.json",
+              "RelativeDocumentMoniker": "TiendaVideojuegos\\usuarios.json",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\usuarios.json",
+              "RelativeToolTip": "TiendaVideojuegos\\usuarios.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-22T12:57:06.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaVideojuegos\\Program.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\ProyectoFinal\\TiendaVideojuegos\\TiendaVideojuegos\\Program.cs",
+              "RelativeToolTip": "TiendaVideojuegos\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T12:56:37.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "Nombre": "Admin",
+    "Email": "admin@tienda.com",
+    "Password": "123",
+    "Rol": 0,
+    "JuegosComprados": []
+  }
+]
